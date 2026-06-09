@@ -1,9 +1,4 @@
-<p align="center">
-
-  <img src="assets/glitch.gif" alt="Glitching binary text animation" width="600">
-
-</p>
-
+#HI
 <!--
 **tylermcgrane/tylermcgrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
